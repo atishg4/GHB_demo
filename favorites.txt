@@ -4,5 +4,3 @@ biryani
 pizza
 tikka kabab
 reshmi kabab
-penne alfredo
-penne arabiatta
