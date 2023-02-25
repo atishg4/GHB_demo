@@ -2,3 +2,5 @@ idli
 dosa
 biryani
 pizza
+tikka kabab
+reshmi kabab
